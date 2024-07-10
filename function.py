@@ -6,6 +6,3 @@ if isDouble(num):
     print(f"{num}是偶数")
 else :
     print(f"{num}是奇数")
-
-
-    现在怎么样
